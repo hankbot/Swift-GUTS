@@ -66,6 +66,7 @@
 				36C949F01A9834AB002A1210 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 1;
 		};
 		36C949F01A9834AB002A1210 /* Products */ = {
 			isa = PBXGroup;
